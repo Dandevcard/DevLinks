@@ -11,14 +11,12 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+![Descrição da Imagem](img/projeto-light.png)
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="projeto-dark.png" width="100%">
+  <img alt="projeto DevLinks" src="img/projeto-dark.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
